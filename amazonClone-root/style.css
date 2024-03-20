@@ -222,3 +222,40 @@ footer {
   background: #131921;
   padding: 20px 60px;
 }
+
+/* deixar responsivo para telas menores */
+@media (max-width: 768px) {
+  .nav-search {
+    display: none;
+  }
+  .nav-cart {
+    display: none;
+  }
+  .nav-bottom {
+    display: none;
+  }
+  .header-slider a {
+    display: none;
+  }
+  .header-box {
+    margin-top: 0;
+  }
+  .box-col {
+    max-width: 100%;
+  }
+  .products-slider {
+    margin: 0;
+  }
+  .products-slider-with-price {
+    margin: 0;
+  }
+  .product-card {
+    min-width: 100%;
+  }
+  footer {
+    padding: 20px;
+  }
+  footer img {
+    width: 100%;
+  }
+}
