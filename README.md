@@ -1,7 +1,7 @@
 # Workspace---Amazon-Clone
 This is a project to clone a web page of Amazon
 
-https://phelipesilvestre.github.io/Workspace---Amazon-Clone/
+[https://phelipesilvestre.github.io/Workspace---Amazon-Clone/](https://phelipesilvestre.github.io/amazon-clone/)
 
 
 
